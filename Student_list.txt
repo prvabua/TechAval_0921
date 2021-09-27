@@ -1,8 +1,5 @@
 1. Alex Svideniuk
-<<<<<<< HEAD
 2. Valeria Yermolaieva
-=======
-2. Aleksei Chuprina
->>>>>>> 2222b696a6f636d343874d1b16fb510c2ce9064b
-3. Igor Znachko
-4. Yevhen Kirsta
+3. Aleksei Chuprina
+4. Igor Znachko
+5. Yevhen Kirsta
